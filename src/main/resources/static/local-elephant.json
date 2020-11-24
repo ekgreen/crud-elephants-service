@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Nachos",
+    "age": 23,
+    "type": {
+      "value": "mexican",
+      "description": "Дальневосточный слон с пряностями"
+    },
+    "trunkLength": 4
+  },
+  {
+    "id": 1,
+    "name": "СтрAптивый",
+    "age": 69,
+    "type": {
+      "value": "spain",
+      "description": "Горячий приморский слон"
+    },
+    "trunkLength": 2
+  },
+  {
+    "id": 2,
+    "name": "Сибиряк",
+    "age": 35,
+    "type": {
+      "value": "russian",
+      "description": "Самый настоящий сибирский слон (нет)"
+    },
+    "trunkLength": 27
+  },
+  {
+    "id": 3,
+    "name": "Снежок",
+    "age": 21,
+    "type": {
+      "value": "arctic",
+      "description": "Друг полярного мишки"
+    },
+    "trunkLength": 25
+  },
+  {
+    "id": 4,
+    "name": "Хатико",
+    "age": 23,
+    "type": {
+      "value": "homeless",
+      "description": "Неприкаянный, как твоя душа"
+    },
+    "trunkLength": 19
+  },
+  {
+    "id": 5,
+    "name": "Ильдар",
+    "age": 23,
+    "type": {
+      "value": "tartar",
+      "description": "Кормить эчпочмаками"
+    },
+    "trunkLength": 1
+  }
+]
